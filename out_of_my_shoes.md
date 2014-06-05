@@ -3,7 +3,7 @@
 
 Ricardo Pietrobon, PhD   
 Andrea Scalco, PhD candidate   
-Bruno Melo
+Bruno Melo  
 Gustavo Medeiros, MD   
 Joao Vissoci, PhD   
 
