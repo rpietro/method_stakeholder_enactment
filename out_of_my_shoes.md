@@ -4,11 +4,14 @@
 Ricardo Pietrobon, PhD   
 Andrea Scalco, PhD candidate   
 Bruno Melo  
+Morteza Charkhabi, PhD candidate
 Gustavo Medeiros, MD   
 Joao Vissoci, PhD   
 
 
 <!-- http://personalizedlearningconsortium.org/ -->
+
+
 
 
 ## Abstract
@@ -45,4 +48,8 @@ diagrams in HTML5
 [Psychodrama](http://en.wikipedia.org/wiki/Psychodrama) and [Jacob Moreno](http://en.wikipedia.org/wiki/Jacob_L._Moreno)
 [Enactment theory in family and marriage](http://www.drseandavis.com/2004enactments.pdf)
 [Drama Therapy](http://en.wikipedia.org/wiki/Drama_Therapy)
+
+Quick info from wiki: http://en.wikipedia.org/wiki/Role-playing
+Role play on the Assessment Center: http://www.assessmentcentrehq.com/assessment-centre-exercises/role-plays-the-ultimate-guide/
+A quick review: http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture6A_Chaochen/Greenberg%20role%20playing%20jom%2093.pdf
 
