@@ -4,7 +4,8 @@
 Ricardo Pietrobon, PhD   
 Andrea Scalco, PhD candidate   
 Bruno Melo  
-Morteza Charkhabi, PhD candidate
+Morteza Charkhabi, PhD candidate  
+Graziela Nogueira, PhD  
 Gustavo Medeiros, MD   
 Joao Vissoci, PhD   
 
