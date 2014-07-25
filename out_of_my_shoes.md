@@ -1,10 +1,12 @@
-# Out of my shoes: A novel educational method involving stakeholder enactment to provide adult learners with self-insight
+# Stakeholder enactment: A novel educational method combining online, asynchronous role play and Merrienboer's Complex Learning Instructional Design
 
 
 Ricardo Pietrobon, PhD   
 Andrea Scalco, PhD candidate   
 Morteza Charkhabi, PhD candidate  
 Graziela Nogueira, PhD  
+Francesco de Paola, PhD candida   
+Rafael Ayvazian
 Bruno Melo  
 Gustavo Medeiros, MD   
 Joao Vissoci, PhD   
@@ -22,6 +24,8 @@ Joao Vissoci, PhD
 ## Introduction
 
 Online education has been accused of being a mere recycle of material originally created for in-person classes <!-- ref --> and much of that accusation is probably deserved. In other words, online learning rarely takes advantages of its unique environment characteristics, and instead attempts to imperfectly mimic what happens in an in-person environment. In this article we describe an online educational methodology that attempts to fill this gap, presenting a method that makes use of videos to help adult learners impersonate stakeholders who interact with them on certain activities, ultimately gaining insight about themselves from an external perspective. 
+
+Specifically, the stakeholder enactment perspective merges two 
 
 The article starts with a description of the learning methodology, then provides examples through scripts and videos, describes its implementation in a learning management system, and then discusses this method in face of previously existing scholarly literature.
 
@@ -52,21 +56,48 @@ The main point of this sequence is to provide learners with insights that can on
 
 <!-- script and video -->
 
+### Job finding skills
+
+
 ## Implementation on the Open edX platform
 
-## Related work
+<!-- screen shots -->
 
-[Psychodrama](http://en.wikipedia.org/wiki/Psychodrama) and [Jacob Moreno](http://en.wikipedia.org/wiki/Jacob_L._Moreno)
-[Enactment theory in family and marriage](http://www.drseandavis.com/2004enactments.pdf)
-[Drama Therapy](http://en.wikipedia.org/wiki/Drama_Therapy)
+
+## Relation to Role Play
+
+[Role play]()
+
+
+## Relation to Merrienboer's Complex Learning
+
+
 
 Quick info from wiki: http://en.wikipedia.org/wiki/Role-playing
 Role play on the Assessment Center: http://www.assessmentcentrehq.com/assessment-centre-exercises/role-plays-the-ultimate-guide/
 A quick review: http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture6A_Chaochen/Greenberg%20role%20playing%20jom%2093.pdf
 
+http://goo.gl/wACUw
+
+http://citt.ufl.edu/wp-content/uploads/2014/04/role_play_online.pdf
+
+http://www.rmit.edu.au/browse/Staff%2FLearning%20and%20Teaching%2FPriorities%2FeSimulation%20learning%20environments%2FOnline%20role-playing/
+
+http://sloanconsortium.org/jaln/v9n4/developing-learning-community-online-asynchronous-college-courses-role-teaching-presence
+
+http://www.ion.uillinois.edu/resources/otai/RolePlaying.asp
+
+http://www.igi-global.com/chapter/asynchronous-online-role-plays-using/36949
+
+
+## Relation to demonstration videos
+
+www.doc.com
+
 ## Conclusion
 
 
+Provide adults with insight from the perspective of the stakeholders mainly affected by the tasks they perform.
 
 ## References
 
