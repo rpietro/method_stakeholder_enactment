@@ -56,7 +56,19 @@ The main point of this sequence is to provide learners with insights that can on
 
 <!-- script and video -->
 
-### Job finding skills
+### Job finding skills online course
+
+To verify the success of this tecnique, we implemented the stakeholder enactment into an online course. The participants were Italian Master's students recruited from the University of Verona. They voluntarily enrolled into the course which had the specific objective of improve their job finding skills. The course was provided through EdX online platform (see www.edx.org), designed especially to supports video lectures. Following the Merrienboer's Complex Learning methodology we developed a course structured in different brief lessons, each one focused on the most important skills to find and obtain a job. <!-- summary of the study -->
+
+As an example, in order to apply the stakeholder enactment to the first module of the online course the steps were the follow:
+
+1. Learners enter in the first module and assist to a brief screen casting lecture with support information about effective communication during a job interview. The lecture is then followed by several links to deepen the argument.
+2. In the next section, we ask students to take on the role of a recruiter consultant that, in this case, has the objective to help candidate to improve their chance to get hired. Later, participants watch a short video of an artificial situation where one of the Author of the study play as a candidate interviewed by a company's recruiter. In order to enhance the credibility of the simulation we also added a job offer that is assumed as published by the company to attract candidates. During the interview the fake candidate commits three correct actions, three wrong ones and miss some opportunies to heighten his chance to impress the recruiter (clearly, all these actions are not done sequentially, but distributed all over the job interview).
+3. After the simulation video, students must accomplish a quiz constituted by several multiple alternative questions where they can coach the candidate showed in the previous interview by remarking his behaviour. Specifically, they should understand and point out the correct, wrong and missed actions of the interviewed. 
+
+<!-- study's results -->
+
+More detailed information about the study conducted could be retrieved in <!-- add ref -->.
 
 
 ## Implementation on the Open edX platform
